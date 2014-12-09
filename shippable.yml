@@ -7,8 +7,7 @@ env:
   global:
     - GAE_DIR=/tmp/gae
     - EMAIL=rtesini@gmail.com
-    - secure: JR+RT7Dbu0g44FyADoe3SMWeGMHp4VTm8Tja+o81AhW6+WYrW9s7OXiSKx/Vnt53MVHt0UyPbtLIAwYihiO8jizSvU3tg8EHResE21716u3t9xIU1zKhd3GV/cA4oTk8E1yEGHlfCpG7zEYkV5UkA/xpIPPRkB09oOpCb3/dEdnqPGybZ5RSLpTes4Hsdz8qhKse+3xcyqx5TKnAtItczZ8Tp2ZD/NBa+NrKBNqZLTik2R6Gh63nmnH4pHLvcQCHt8VcpjQ5oFnio7VqWEChns3mnl3KatxaKvY46Q7k5F8bJcK1pu2Nll7p6wDxILJLipBzV/kYZvi6n1db00G5tg==
-
+    - secure: NgdSgHHwoGytgzgM4k1JViFo4MstnYGNUQa0SDIk8+QFtmM1bnOQqjezd4BRcqXUJHz/9E7GboC7owaaiuvULbcVmeoRzwp0NleEAX9+6sqwZ2J9ZKcTrxTUOXlDh9VM0JGOvg3FXX1fKVWcmS0SrhnpxtHeTAEGcRPID8aPa5l4ijmNnQoh9qE6LF3cCN1tE0YUZXGK/LljQjPx92MBiQuirYejo4QUkIhyqa4QnUJzaR59quZwo1PIcg0LMTCv4LkeCDI4JuYMnN1lMTJsJHZIUK2gWEmUUNj+E5IesyahGBKAjeMRRvtShZjhp09AFzjP57+p2y+82vcSSJwiVw==
 before_install:
   - >
     test -e $GAE_DIR || 
