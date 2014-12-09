@@ -6,8 +6,8 @@ python:
 env:
   global:
     - GAE_DIR=/tmp/gae
-    - EMAIL=shippable@gmail.com
-    - secure: lffPR8giDdKinq1LfjTabgM8Lufb3sdweFWJcoU8o/KIvwTg9NOxEw3oG5pw4+pI0c3q/k0JkBv7QgDGkoiRHwZkebWYNcHwyo2NFaa/cpwpNjv3pMZsXpMiw+duSvfjA/XmFAynmW8/ft2YaAzpB1Mbn5p2k7ID2qCMv/YmFgIu605VK/WUnYPEdxMD2vkifVSNAIH42GOR+2ht4nKj85Wsu9OGgMBJ5XAqVcQoWX+Ui9yZvtaf3WKzowg+MC4PQ0qGLH/l6WHkY8bBCduMz65JjZIss2s972L4P8Hwpk+gDdVtRE82hKH7GuEYdNKhKjbthZmn5AF4thI72N5TjQ==
+    - EMAIL=rtesini@gmail.com
+    - secure: JR+RT7Dbu0g44FyADoe3SMWeGMHp4VTm8Tja+o81AhW6+WYrW9s7OXiSKx/Vnt53MVHt0UyPbtLIAwYihiO8jizSvU3tg8EHResE21716u3t9xIU1zKhd3GV/cA4oTk8E1yEGHlfCpG7zEYkV5UkA/xpIPPRkB09oOpCb3/dEdnqPGybZ5RSLpTes4Hsdz8qhKse+3xcyqx5TKnAtItczZ8Tp2ZD/NBa+NrKBNqZLTik2R6Gh63nmnH4pHLvcQCHt8VcpjQ5oFnio7VqWEChns3mnl3KatxaKvY46Q7k5F8bJcK1pu2Nll7p6wDxILJLipBzV/kYZvi6n1db00G5tg==
 
 before_install:
   - >
